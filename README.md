@@ -73,7 +73,7 @@ With that in mind, things to think about when ideating projects are the **techni
 ### Groups  
 | Members | Team Name | Link to Repo |  
 |---|---|---|
-|  |  |  |
+| tasha John George jorge | n/a | n/a |
 |  |  |  |  
 |  |  |  |  
 |  |  |  |  
